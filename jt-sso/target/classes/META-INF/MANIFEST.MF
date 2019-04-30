@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jt-sso
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PC-Admin
+Implementation-Vendor-Id: com.jt.test
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jt-1/jt-sso
+Created-By: Maven Integration for Eclipse
+
